@@ -2,6 +2,10 @@
     "fixed_type": [
         {
             "id": 1,
+            "welcome": false,
+            "hours": 8,
+            "minutes": 0,
+            "daysOfWeek": false,
             "image": false,
             "button": {
                 "text": {
@@ -62,6 +66,10 @@
         },
         {
             "id": 2,
+            "welcome": false,
+            "hours": 20,
+            "minutes": 0,
+            "daysOfWeek": false,
             "image": false,
             "button": {
                 "text": {
@@ -122,6 +130,10 @@
         },
         {
             "id": 3,
+            "welcome": false,
+            "hours": 9,
+            "minutes": 0,
+            "daysOfWeek": false,
             "image": false,
             "button": {
                 "text": {
@@ -182,6 +194,12 @@
         },
         {
             "id": 4,
+            "welcome": false,
+            "hours": 20,
+            "minutes": 30,
+            "daysOfWeek": [
+                7
+            ],
             "image": false,
             "button": {
                 "text": {
@@ -242,6 +260,14 @@
         },
         {
             "id": 5,
+            "welcome": false,
+            "hours": 10,
+            "minutes": 0,
+            "daysOfWeek": [
+                3,
+                5,
+                7
+            ],
             "image": false,
             "button": {
                 "text": {
