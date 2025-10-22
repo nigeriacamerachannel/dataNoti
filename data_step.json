@@ -67,7 +67,7 @@
             "id": 2,
             "image": null,
             "hour": 13,
-            "minute": 5,
+            "minute": 35,
             "daysOfWeek": [1,2,3,4,5,6,7],
             "button": {
                 "text": {
