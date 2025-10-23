@@ -3,8 +3,8 @@
         {
             "id": 1,
             "welcome": false,
-            "hours": 8,
-            "minutes": 0,
+            "hour": 8,
+            "minute": 0,
             "daysOfWeek": false,
             "image": false,
             "button": {
@@ -67,8 +67,8 @@
         {
             "id": 2,
             "welcome": false,
-            "hours": 20,
-            "minutes": 0,
+            "hour": 20,
+            "minute": 0,
             "daysOfWeek": false,
             "image": false,
             "button": {
@@ -131,8 +131,8 @@
         {
             "id": 3,
             "welcome": false,
-            "hours": 9,
-            "minutes": 0,
+            "hour": 9,
+            "minute": 0,
             "daysOfWeek": false,
             "image": false,
             "button": {
@@ -195,8 +195,8 @@
         {
             "id": 4,
             "welcome": false,
-            "hours": 20,
-            "minutes": 30,
+            "hour": 20,
+            "minute": 30,
             "daysOfWeek": [
                 7
             ],
@@ -261,8 +261,8 @@
         {
             "id": 5,
             "welcome": false,
-            "hours": 10,
-            "minutes": 0,
+            "hour": 10,
+            "minute": 0,
             "daysOfWeek": [
                 3,
                 5,
@@ -610,11 +610,11 @@
                 "hi-IN": "अपने बच्चे से बात करें 💞"
             },
             "titleSub": {
-                "en-US": "Your baby can already hear your voice - take a few minutes to connect today 👶",
+                "en-US": "Your baby can already hear your voice - take a few minute to connect today 👶",
                 "vi-VN": "Em bé của bạn đã có thể nghe thấy giọng nói của bạn – hãy dành vài phút để kết nối hôm nay 👶",
                 "pt-PT": "O seu bebé já consegue ouvir a sua voz - dedique alguns minutos para se conectar hoje 👶",
                 "es-ES": "Tu bebé ya puede oír tu voz, tómate unos minutos para conectar hoy 👶",
-                "fr-FR": "Votre bébé peut déjà entendre votre voix - prenez quelques minutes pour vous connecter aujourd’hui 👶",
+                "fr-FR": "Votre bébé peut déjà entendre votre voix - prenez quelques minute pour vous connecter aujourd’hui 👶",
                 "ko-KR": "아기는 이미 당신의 목소리를 들을 수 있어요 – 오늘 몇 분만이라도 교감해 보세요 👶",
                 "ja-JP": "赤ちゃんはもうあなたの声を聞けますよ – 今日少しだけ話しかけてみましょう 👶",
                 "it-IT": "Il tuo bambino può già sentire la tua voce – prenditi qualche minuto per connetterti oggi 👶",
