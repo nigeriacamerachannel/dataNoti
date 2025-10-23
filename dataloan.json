@@ -3,8 +3,8 @@
         {
             "id": 1,
             "image": false,
-            "hours": 9,
-            "minutes": 0,
+            "hour": 9,
+            "minute": 0,
             "daysOfWeek": [2],
             "button": {
                 "text": {
@@ -66,8 +66,8 @@
         {
             "id": 2,
             "image": false,
-            "hours": 19,
-            "minutes": 0,
+            "hour": 19,
+            "minute": 0,
             "daysOfWeek": [4],
             "button": {
                 "text": {
@@ -129,8 +129,8 @@
         {
             "id": 3,
             "image": false,
-            "hours": 10,
-            "minutes": 0,
+            "hour": 10,
+            "minute": 0,
             "daysOfWeek": [5],
             "button": {
                 "text": {
@@ -192,10 +192,10 @@
         {
             "id": 4,
             "image": false,
-            "hours": 8,
-            "minutes": 0,
-            "startAfterMinutes": 0,
-            "repeatIntervalMinutes":43200,
+            "hour": 8,
+            "minute": 0,
+            "startAfterminute": 0,
+            "repeatIntervalminute":43200,
             "button": {
                 "text": {
                     "vi-VN": "Lên kế hoạch",
@@ -256,10 +256,10 @@
         {
             "id": 5,
             "image": false,
-            "hours": 10,
-            "minutes": 0,
-            "startAfterMinutes": 4320,
-            "repeatIntervalMinutes":1440,
+            "hour": 10,
+            "minute": 0,
+            "startAfterminute": 4320,
+            "repeatIntervalminute":1440,
             "button": {
                 "text": {
                     "vi-VN": "Nâng cấp ngay",
@@ -320,10 +320,10 @@
         {
             "id": 6,
             "image": false,
-            "hours": 20,
-            "minutes": 0,
-            "startAfterMinutes": 21600,
-            "repeatIntervalMinutes":43200,
+            "hour": 20,
+            "minute": 0,
+            "startAfterminute": 21600,
+            "repeatIntervalminute":43200,
             "button": {
                 "text": {
                     "vi-VN": "Kiểm tra tiến độ",
@@ -384,8 +384,8 @@
         {
             "id": 7,
             "image": false,
-            "hours": 8,
-            "minutes": 30,
+            "hour": 8,
+            "minute": 30,
             "daysOfWeek": [1,2,3,4,5,6,7],
             "button": {
                 "text": {
@@ -447,8 +447,8 @@
         {
             "id": 8,
             "image": false,
-            "hours": 21,
-            "minutes": 30,
+            "hour": 21,
+            "minute": 30,
             "daysOfWeek": [1,2,3,4,5,6,7],
             "button": {
                 "text": {
