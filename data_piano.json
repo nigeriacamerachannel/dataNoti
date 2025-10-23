@@ -2,8 +2,8 @@
   "fixed_type": [
     {
       "id": 1,
-      "hours": 10,
-      "minutes": 0,
+      "hour": 10,
+      "minute": 0,
       "daysOfWeek": [
         5
       ],
@@ -67,8 +67,8 @@
     },
     {
       "id": 2,
-      "hours": 8,
-      "minutes": 0,
+      "hour": 8,
+      "minute": 0,
       "daysOfWeek": false,
       "image": false,
       "button": {
@@ -111,7 +111,7 @@
       },
       "titleSub": {
         "en-US": "Play for 5 mins today to keep your rhythm alive!",
-        "fr-FR": "Jouez 5 minutes aujourd'hui pour garder votre rythme en vie !",
+        "fr-FR": "Jouez 5 minute aujourd'hui pour garder votre rythme en vie !",
         "hi-IN": "आज 5 मिनट के लिए बजाएँ ताकि आपकी लय जीवित रहे!",
         "ar-SA": "العب لمدة 5 دقائق اليوم للحفاظ على إيقاعك!",
         "de-DE": "Spiele heute 5 Minuten, um deinen Rhythmus am Leben zu erhalten!",
@@ -130,8 +130,8 @@
     },
     {
       "id": 3,
-      "hours": 21,
-      "minutes": 0,
+      "hour": 21,
+      "minute": 0,
       "daysOfWeek": false,
       "image": false,
       "button": {
@@ -193,8 +193,8 @@
     },
     {
       "id": 4,
-      "hours": 14,
-      "minutes": 0,
+      "hour": 14,
+      "minute": 0,
       "daysOfWeek": false,
       "image": false,
       "button": {
@@ -256,7 +256,7 @@
     },
     {
       "id": 5,
-      "timeGapHours": 72,
+      "timeGaphour": 72,
       "image": false,
       "button": {
         "text": {
