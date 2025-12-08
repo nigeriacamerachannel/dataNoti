@@ -258,7 +258,7 @@
       "id": 5,
       "hour": 9,
       "minute": 0,
-      "startDateTime": 0,
+      "startAfterMinutes": 0,
       "repeatIntervalMinutes":4320,
       "image": false,
       "button": {
