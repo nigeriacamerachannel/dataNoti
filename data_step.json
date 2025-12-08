@@ -257,8 +257,8 @@
             "image": null,
             "hour": 10,
             "minute": 0,
-            "startAfterminute":4320,
-            "repeatIntervalminute": 1440,
+            "startAfterMinutes":4320,
+            "repeatIntervalMinutes": 1440,
             "button": {
                 "text": {
                     "vi-VN": "Nâng cấp ngay",
