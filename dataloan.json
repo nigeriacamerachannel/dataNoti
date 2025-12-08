@@ -194,8 +194,8 @@
             "image": false,
             "hour": 8,
             "minute": 0,
-            "startAfterminute": 0,
-            "repeatIntervalminute":43200,
+            "startAfterMinutes": 0,
+            "repeatIntervalMinutes":43200,
             "button": {
                 "text": {
                     "vi-VN": "Lên kế hoạch",
@@ -258,8 +258,8 @@
             "image": false,
             "hour": 10,
             "minute": 0,
-            "startAfterminute": 4320,
-            "repeatIntervalminute":1440,
+            "startAfterMinutes": 4320,
+            "repeatIntervalMinutes":1440,
             "button": {
                 "text": {
                     "vi-VN": "Nâng cấp ngay",
@@ -322,8 +322,8 @@
             "image": false,
             "hour": 20,
             "minute": 0,
-            "startAfterminute": 21600,
-            "repeatIntervalminute":43200,
+            "startAfterMinutes": 21600,
+            "repeatIntervalMinutes":43200,
             "button": {
                 "text": {
                     "vi-VN": "Kiểm tra tiến độ",
