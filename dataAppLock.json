@@ -1,0 +1,594 @@
+{
+  "fixed_type": [
+    {
+      "id": 1,
+      "hour": 9,
+      "minute": 0,
+      "daysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Open",
+          "ar": "فتح",
+          "de": "Öffnen",
+          "es": "Abrir",
+          "fr": "Ouvrir",
+          "hi": "खोलें",
+          "id": "Buka",
+          "ja": "開く",
+          "ko": "열기",
+          "pt": "Abrir",
+          "vi": "Mở",
+          "zh": "打开"
+        }
+      },
+      "title": {
+        "en": "Stay protected today 🛡️",
+        "ar": "ابق محمياً اليوم 🛡️",
+        "de": "Bleib heute geschützt 🛡️",
+        "es": "Mantente protegido hoy 🛡️",
+        "fr": "Reste protégé aujourd'hui 🛡️",
+        "hi": "आज सुरक्षित रहें 🛡️",
+        "id": "Tetap terlindungi hari ini 🛡️",
+        "ja": "今日は守りを固めよう 🛡️",
+        "ko": "오늘도 안전하게 🛡️",
+        "pt": "Fique protegido hoje 🛡️",
+        "vi": "Hôm nay hãy giữ an toàn 🛡️",
+        "zh": "今天保持安全 🛡️"
+      },
+      "titleSub": {
+        "en": "Don’t forget to lock your gallery and private chats.",
+        "ar": "لا تنسَ قفل معرضك ودردشاتك الخاصة.",
+        "de": "Vergiss nicht, deine Galerie und privaten Chats zu sperren.",
+        "es": "No olvides bloquear tu galería y tus chats privados.",
+        "fr": "N'oublie pas de verrouiller ta galerie et tes discussions privées.",
+        "hi": "अपनी गैलरी और निजी चैट लॉक करना न भूलें.",
+        "id": "Jangan lupa kunci galeri dan obrolan pribadi.",
+        "ja": "ギャラリーとプライベートチャットのロックを忘れずに。",
+        "ko": "갤러리와 비공개 채팅 잠그는 것 잊지 마세요.",
+        "pt": "Não esqueça de bloquear sua galeria e conversas privadas.",
+        "vi": "Đừng quên khóa thư viện và trò chuyện riêng.",
+        "zh": "别忘了锁住你的相册和私人聊天。"
+      }
+    },
+    {
+      "id": 2,
+      "hour": 20,
+      "minute": 0,
+      "daysOfWeek": [6],
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Check",
+          "ar": "تحقق",
+          "de": "Prüfen",
+          "es": "Verificar",
+          "fr": "Vérifier",
+          "hi": "जांचें",
+          "id": "Periksa",
+          "ja": "確認",
+          "ko": "확인",
+          "pt": "Verificar",
+          "vi": "Kiểm tra",
+          "zh": "检查"
+        }
+      },
+      "title": {
+        "en": "Weekend safety check ✅",
+        "ar": "فحص أمان نهاية الأسبوع ✅",
+        "de": "Sicherheitscheck am Wochenende ✅",
+        "es": "Control de seguridad del fin de semana ✅",
+        "fr": "Vérification de sécurité du week‑end ✅",
+        "hi": "सप्ताहांत सुरक्षा जांच ✅",
+        "id": "Pemeriksaan keamanan akhir pekan ✅",
+        "ja": "週末の安全チェック ✅",
+        "ko": "주말 안전 점검 ✅",
+        "pt": "Verificação de segurança do fim de semana ✅",
+        "vi": "Kiểm tra an toàn cuối tuần ✅",
+        "zh": "周末安全检查 ✅"
+      },
+      "titleSub": {
+        "en": "Heading out? Ensure your phone is fully secured.",
+        "ar": "خارج المنزل؟ تأكد أن هاتفك مؤمَّن بالكامل.",
+        "de": "Gehst du raus? Stelle sicher, dass dein Handy vollständig gesichert ist.",
+        "es": "¿Saliendo? Asegúrate de que tu teléfono esté totalmente seguro.",
+        "fr": "Tu sors ? Assure-toi que ton téléphone est bien sécurisé.",
+        "hi": "बाहर जा रहे हैं? अपने फोन को पूरी तरह सुरक्षित रखें.",
+        "id": "Mau keluar? Pastikan ponselmu aman sepenuhnya.",
+        "ja": "外出する前にスマホの安全を確認しよう。",
+        "ko": "외출 중인가요? 휴대폰이 완전히 보호되는지 확인하세요.",
+        "pt": "Vai sair? Garanta que seu celular esteja protegido.",
+        "vi": "Ra ngoài? Đảm bảo điện thoại được bảo vệ đầy đủ.",
+        "zh": "要出门？确保手机已完全安全。"
+      }
+    },
+    {
+      "id": 3,
+      "hour": 18,
+      "minute": 0,
+      "timeGapHours": 72,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Review",
+          "ar": "مراجعة",
+          "de": "Überprüfen",
+          "es": "Revisar",
+          "fr": "Examiner",
+          "hi": "समीक्षा",
+          "id": "Tinjau",
+          "ja": "レビュー",
+          "ko": "검토",
+          "pt": "Revisar",
+          "vi": "Xem lại",
+          "zh": "查看"
+        }
+      },
+      "title": {
+        "en": "Check your protection status 🔍",
+        "ar": "تحقق من حالة الحماية 🔍",
+        "de": "Überprüfe deinen Schutzstatus 🔍",
+        "es": "Revisa tu estado de protección 🔍",
+        "fr": "Vérifie ton statut de protection 🔍",
+        "hi": "अपनी सुरक्षा स्थिति जांचें 🔍",
+        "id": "Periksa status perlindunganmu 🔍",
+        "ja": "保護状況を確認 🔍",
+        "ko": "보호 상태 확인 🔍",
+        "pt": "Verifique seu status de proteção 🔍",
+        "vi": "Kiểm tra trạng thái bảo vệ 🔍",
+        "zh": "检查你的防护状态 🔍"
+      },
+      "titleSub": {
+        "en": "Make sure all your important apps are still locked.",
+        "ar": "تأكد أن كل تطبيقاتك المهمة ما زالت مقفلة.",
+        "de": "Stelle sicher, dass alle wichtigen Apps noch gesperrt sind.",
+        "es": "Asegúrate de que todas tus apps importantes sigan bloqueadas.",
+        "fr": "Assure-toi que toutes tes applis importantes sont encore verrouillées.",
+        "hi": "सुनिश्चित करें कि आपके सभी महत्वपूर्ण ऐप्स अभी भी लॉक हैं.",
+        "id": "Pastikan semua aplikasi pentingmu masih terkunci.",
+        "ja": "大事なアプリがまだロックされているか確認しよう。",
+        "ko": "중요한 앱들이 계속 잠겨 있는지 확인하세요.",
+        "pt": "Verifique se seus apps importantes continuam bloqueados.",
+        "vi": "Đảm bảo các ứng dụng quan trọng vẫn đang khóa.",
+        "zh": "确保所有重要应用仍然被锁定。"
+      }
+    },
+    {
+      "id": 4,
+      "hour": 10,
+      "minute": 0,
+      "daysOfWeek": [2],
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Open",
+          "ar": "فتح",
+          "de": "Öffnen",
+          "es": "Abrir",
+          "fr": "Ouvrir",
+          "hi": "खोलें",
+          "id": "Buka",
+          "ja": "開く",
+          "ko": "열기",
+          "pt": "Abrir",
+          "vi": "Mở",
+          "zh": "打开"
+        }
+      },
+      "title": {
+        "en": "Start your week safe 🔐",
+        "ar": "ابدأ أسبوعك بأمان 🔐",
+        "de": "Starte sicher in die Woche 🔐",
+        "es": "Empieza tu semana con seguridad 🔐",
+        "fr": "Commence ta semaine en sécurité 🔐",
+        "hi": "सुरक्षित तरीके से सप्ताह शुरू करें 🔐",
+        "id": "Mulai minggu dengan aman 🔐",
+        "ja": "安全に一週間を始めよう 🔐",
+        "ko": "안전하게 한 주 시작하세요 🔐",
+        "pt": "Comece a semana com segurança 🔐",
+        "vi": "Bắt đầu tuần mới an toàn 🔐",
+        "zh": "安全开始你的一周 🔐"
+      },
+      "titleSub": {
+        "en": "Keep your personal apps protected everywhere you go.",
+        "ar": "احمِ تطبيقاتك الشخصية أينما ذهبت.",
+        "de": "Schütze deine persönlichen Apps überall.",
+        "es": "Mantén tus apps personales protegidas donde vayas.",
+        "fr": "Protège tes applis personnelles partout où tu vas.",
+        "hi": "जहां भी जाएं, अपने निजी ऐप्स सुरक्षित रखें.",
+        "id": "Lindungi aplikasi pribadimu ke mana pun kamu pergi.",
+        "ja": "どこへ行っても個人アプリを守ろう。",
+        "ko": "어디서나 개인 앱을 안전하게 지키세요.",
+        "pt": "Proteja seus apps pessoais onde quer que vá.",
+        "vi": "Bảo vệ các ứng dụng cá nhân của bạn mọi nơi.",
+        "zh": "无论去哪都保护你的私密应用。"
+      }
+    }  
+  ],
+  "event_type": [
+    {
+      "id": 1,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Check",
+          "ar": "تحقق",
+          "de": "Prüfen",
+          "es": "Verificar",
+          "fr": "Vérifier",
+          "hi": "जांचें",
+          "id": "Periksa",
+          "ja": "確認",
+          "ko": "확인",
+          "pt": "Verificar",
+          "vi": "Kiểm tra",
+          "zh": "检查"
+        }
+      },
+      "title": {
+        "en": "Start your day safely 🌞",
+        "ar": "ابدأ يومك بأمان 🌞",
+        "de": "Starte sicher in den Tag 🌞",
+        "es": "Empieza tu día de forma segura 🌞",
+        "fr": "Commence ta journée en sécurité 🌞",
+        "hi": "दिन की सुरक्षित शुरुआत करें 🌞",
+        "id": "Mulai harimu dengan aman 🌞",
+        "ja": "安全に一日を始めよう 🌞",
+        "ko": "안전한 하루 시작 🌞",
+        "pt": "Comece seu dia com segurança 🌞",
+        "vi": "Bắt đầu ngày mới an toàn 🌞",
+        "zh": "安全开始你的一天 🌞"
+      },
+      "titleSub": {
+        "en": "Keep your data private - your apps are locked!",
+        "ar": "حافظ على خصوصية بياناتك - تطبيقاتك مقفلة!",
+        "de": "Halte deine Daten privat – deine Apps sind gesperrt!",
+        "es": "Mantén tus datos privados: ¡tus apps están bloqueadas!",
+        "fr": "Garde tes données privées – tes applis sont verrouillées !",
+        "hi": "अपना डेटा निजी रखें - आपके ऐप्स लॉक हैं!",
+        "id": "Jaga privasi datamu – aplikasimu terkunci!",
+        "ja": "データを守ろう―アプリはロック済み！",
+        "ko": "데이터를 안전하게 – 앱은 잠겨 있어요!",
+        "pt": "Mantenha seus dados privados – apps bloqueados!",
+        "vi": "Giữ dữ liệu riêng tư – ứng dụng đã khóa!",
+        "zh": "保持数据私密——你的应用已锁定！"
+      }
+    },
+    {
+      "id": 2,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Review",
+          "ar": "مراجعة",
+          "de": "Überprüfen",
+          "es": "Revisar",
+          "fr": "Examiner",
+          "hi": "समीक्षा",
+          "id": "Tinjau",
+          "ja": "レビュー",
+          "ko": "검토",
+          "pt": "Revisar",
+          "vi": "Xem lại",
+          "zh": "查看"
+        }
+      },
+      "title": {
+        "en": "Quick privacy check 🔒",
+        "ar": "فحص خصوصية سريع 🔒",
+        "de": "Schneller Privatsphäre-Check 🔒",
+        "es": "Verificación rápida de privacidad 🔒",
+        "fr": "Rapide vérification de confidentialité 🔒",
+        "hi": "त्वरित गोपनीयता जांच 🔒",
+        "id": "Pemeriksaan privasi cepat 🔒",
+        "ja": "プライバシーを素早くチェック 🔒",
+        "ko": "빠른 개인정보 점검 🔒",
+        "pt": "Verificação rápida de privacidade 🔒",
+        "vi": "Kiểm tra quyền riêng tư nhanh 🔒",
+        "zh": "快速隐私检查 🔒"
+      },
+      "titleSub": {
+        "en": "Review which apps are still protected.",
+        "ar": "راجع أي التطبيقات ما زالت محمية.",
+        "de": "Überprüfe, welche Apps noch geschützt sind.",
+        "es": "Revisa qué apps siguen protegidas.",
+        "fr": "Vois quelles applis sont encore protégées.",
+        "hi": "देखें कौन से ऐप अभी भी सुरक्षित हैं.",
+        "id": "Tinjau aplikasi mana yang masih terlindungi.",
+        "ja": "どのアプリが保護されているか確認しよう。",
+        "ko": "어떤 앱이 아직 보호 중인지 확인하세요.",
+        "pt": "Veja quais apps ainda estão protegidos.",
+        "vi": "Xem ứng dụng nào vẫn đang được bảo vệ.",
+        "zh": "查看哪些应用仍受到保护。"
+      }
+    },
+    {
+      "id": 3,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Open",
+          "ar": "فتح",
+          "de": "Öffnen",
+          "es": "Abrir",
+          "fr": "Ouvrir",
+          "hi": "खोलें",
+          "id": "Buka",
+          "ja": "開く",
+          "ko": "열기",
+          "pt": "Abrir",
+          "vi": "Mở",
+          "zh": "打开"
+        }
+      },
+      "title": {
+        "en": "Stay secure tonight 🌙",
+        "ar": "ابق آمناً الليلة 🌙",
+        "de": "Bleib heute Nacht sicher 🌙",
+        "es": "Mantente seguro esta noche 🌙",
+        "fr": "Reste en sécurité ce soir 🌙",
+        "hi": "आज रात सुरक्षित रहें 🌙",
+        "id": "Tetap aman malam ini 🌙",
+        "ja": "今夜も安全に 🌙",
+        "ko": "오늘 밤도 안전하게 🌙",
+        "pt": "Fique seguro esta noite 🌙",
+        "vi": "Giữ an toàn tối nay 🌙",
+        "zh": "今晚保持安全 🌙"
+      },
+      "titleSub": {
+        "en": "Lock your photos and chats before bed.",
+        "ar": "قبل النوم، اقفل صورك ودردشاتك.",
+        "de": "Sperre deine Fotos und Chats vor dem Schlafengehen.",
+        "es": "Bloquea tus fotos y chats antes de dormir.",
+        "fr": "Verrouille tes photos et chats avant de dormir.",
+        "hi": "सोने से पहले अपनी फ़ोटो और चैट लॉक करें.",
+        "id": "Kunci foto dan obrolanmu sebelum tidur.",
+        "ja": "寝る前に写真とチャットをロックしよう。",
+        "ko": "잠들기 전에 사진과 채팅을 잠그세요.",
+        "pt": "Antes de dormir, bloqueie fotos e chats.",
+        "vi": "Khóa ảnh và trò chuyện trước khi ngủ.",
+        "zh": "睡前锁好你的照片和聊天。"
+      }
+    },
+    {
+      "id": 4,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Start Now",
+          "ar": "ابدأ الآن",
+          "de": "Jetzt starten",
+          "es": "Comenzar ahora",
+          "fr": "Commencer maintenant",
+          "hi": "अभी शुरू करें",
+          "id": "Mulai sekarang",
+          "ja": "今すぐ開始",
+          "ko": "지금 시작",
+          "pt": "Começar agora",
+          "vi": "Bắt đầu ngay",
+          "zh": "立即开始"
+        }
+      },
+      "title": {
+        "en": "🌞 Hello, Artist!",
+        "ar": "🌞 مرحباً، أيها الفنان!",
+        "de": "🌞 Hallo, Künstler!",
+        "es": "🌞 ¡Hola, artista!",
+        "fr": "🌞 Bonjour, artiste !",
+        "hi": "🌞 नमस्ते, कलाकार!",
+        "id": "🌞 Halo, Seniman!",
+        "ja": "🌞 こんにちは、アーティスト！",
+        "ko": "🌞 안녕하세요, 아티스트!",
+        "pt": "🌞 Olá, artista!",
+        "vi": "🌞 Xin chào, nghệ sĩ!",
+        "zh": "🌞 你好，艺术家！"
+      },
+      "titleSub": {
+        "en": "Start your day with a new coloring challenge.",
+        "ar": "ابدأ يومك بتحدي تلوين جديد.",
+        "de": "Starte deinen Tag mit einer neuen Mal‑Challenge.",
+        "es": "Empieza tu día con un nuevo reto de colorear.",
+        "fr": "Commence ta journée avec un nouveau défi de coloriage.",
+        "hi": "दिन की शुरुआत नई रंग भरने चुनौती से करें.",
+        "id": "Mulai harimu dengan tantangan mewarnai baru.",
+        "ja": "新しい塗り絵チャレンジで一日を始めよう。",
+        "ko": "새 색칠 도전으로 하루를 시작하세요.",
+        "pt": "Comece o dia com um novo desafio de pintura.",
+        "vi": "Bắt đầu ngày mới với thử thách tô màu mới.",
+        "zh": "用新的填色挑战开始一天。"
+      }
+    },
+    {
+      "id": 5,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "View",
+          "ar": "عرض",
+          "de": "Ansehen",
+          "es": "Ver",
+          "fr": "Voir",
+          "hi": "देखें",
+          "id": "Lihat",
+          "ja": "表示",
+          "ko": "보기",
+          "pt": "Ver",
+          "vi": "Xem",
+          "zh": "查看"
+        }
+      },
+      "title": {
+        "en": "Intruder detected! 🚨",
+        "ar": "تم رصد متطفل! 🚨",
+        "de": "Eindringling erkannt! 🚨",
+        "es": "¡Intruso detectado! 🚨",
+        "fr": "Intrus détecté ! 🚨",
+        "hi": "अनधिकृत पहुँच पकड़ी गई! 🚨",
+        "id": "Penyusup terdeteksi! 🚨",
+        "ja": "侵入者を検出！ 🚨",
+        "ko": "침입자 감지! 🚨",
+        "pt": "Intruso detectado! 🚨",
+        "vi": "Phát hiện kẻ xâm nhập! 🚨",
+        "zh": "检测到入侵者！🚨"
+      },
+      "titleSub": {
+        "en": "Someone tried to open your locked app. View details now.",
+        "ar": "شخص ما حاول فتح تطبيقك المقفل. اعرض التفاصيل الآن.",
+        "de": "Jemand versuchte deine gesperrte App zu öffnen. Details ansehen.",
+        "es": "Alguien intentó abrir tu app bloqueada. Ve detalles ahora.",
+        "fr": "Quelqu'un a essayé d'ouvrir ton appli verrouillée. Voir les détails.",
+        "hi": "किसी ने आपके लॉक किए ऐप को खोलने की कोशिश की. अभी विवरण देखें.",
+        "id": "Seseorang mencoba membuka aplikasi terkuncimu. Lihat detail sekarang.",
+        "ja": "誰かがロックされたアプリを開こうとしました。詳細を見る。",
+        "ko": "누군가 잠긴 앱을 열려고 했습니다. 지금 자세히 보기.",
+        "pt": "Alguém tentou abrir seu app bloqueado. Ver detalhes.",
+        "vi": "Ai đó đã cố mở ứng dụng bị khóa. Xem chi tiết ngay.",
+        "zh": "有人尝试打开你锁住的应用。立即查看详情。"
+      }
+    },
+    {
+      "id": 6,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Customize",
+          "ar": "تخصيص",
+          "de": "Anpassen",
+          "es": "Personalizar",
+          "fr": "Personnaliser",
+          "hi": "कस्टमाइज़",
+          "id": "Sesuaikan",
+          "ja": "カスタマイズ",
+          "ko": "사용자 지정",
+          "pt": "Personalizar",
+          "vi": "Tùy chỉnh",
+          "zh": "自定义"
+        }
+      },
+      "title": {
+        "en": "New lock themes available 🎨",
+        "ar": "ثيمات قفل جديدة متاحة 🎨",
+        "de": "Neue Sperr-Themes verfügbar 🎨",
+        "es": "Nuevos temas de bloqueo disponibles 🎨",
+        "fr": "Nouveaux thèmes de verrou disponibles 🎨",
+        "hi": "नए लॉक थीम उपलब्ध 🎨",
+        "id": "Tema kunci baru tersedia 🎨",
+        "ja": "新しいロックテーマ登場 🎨",
+        "ko": "새 잠금 테마 사용 가능 🎨",
+        "pt": "Novos temas de bloqueio disponíveis 🎨",
+        "vi": "Có chủ đề khóa mới 🎨",
+        "zh": "新的锁定主题可用 🎨"
+      },
+      "titleSub": {
+        "en": "Personalize your app lock in seconds.",
+        "ar": "خصص قفل تطبيقك في ثوانٍ.",
+        "de": "Passe deinen App‑Lock in Sekunden an.",
+        "es": "Personaliza el bloqueo de tu app en segundos.",
+        "fr": "Personnalise le verrou de tes applis en quelques secondes.",
+        "hi": "सेकंडों में अपने ऐप लॉक को पर्सनलाइज़ करें.",
+        "id": "Personalisasi kunci aplikasi dalam hitungan detik.",
+        "ja": "数秒でアプリロックをカスタマイズ。",
+        "ko": "앱 잠금을 몇 초 만에 꾸미세요.",
+        "pt": "Personalize o bloqueio do app em segundos.",
+        "vi": "Tùy chỉnh khóa ứng dụng trong vài giây.",
+        "zh": "几秒内自定义你的应用锁。"
+      }
+    },
+    {
+      "id": 7,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "Upgrade",
+          "ar": "ترقية",
+          "de": "Upgrade",
+          "es": "Mejorar",
+          "fr": "Mettre à niveau",
+          "hi": "अपग्रेड",
+          "id": "Upgrade",
+          "ja": "アップグレード",
+          "ko": "업그레이드",
+          "pt": "Atualizar",
+          "vi": "Nâng cấp",
+          "zh": "升级"
+        }
+      },
+      "title": {
+        "en": "Go Pro, stay invisible 🕶️",
+        "ar": "احصل على النسخة الاحترافية وابقَ مخفياً 🕶️",
+        "de": "Werde Pro und bleib unsichtbar 🕶️",
+        "es": "Hazte Pro y mantente invisible 🕶️",
+        "fr": "Passe en Pro et reste invisible 🕶️",
+        "hi": "प्रो बनें और अदृश्य रहें 🕶️",
+        "id": "Jadi Pro & tetap tak terlihat 🕶️",
+        "ja": "プロ版で見えない存在に 🕶️",
+        "ko": "프로로 업그레이드하고 숨기세요 🕶️",
+        "pt": "Vire Pro e fique invisível 🕶️",
+        "vi": "Nâng cấp Pro để ẩn mình 🕶️",
+        "zh": "升级专业版，保持隐身 🕶️"
+      },
+      "titleSub": {
+        "en": "Hide AppLock itself and remove ads.",
+        "ar": "أخفِ تطبيق AppLock نفسه وأزل الإعلانات.",
+        "de": "Verstecke AppLock selbst und entferne Werbung.",
+        "es": "Oculta AppLock y elimina los anuncios.",
+        "fr": "Cache AppLock lui‑même et supprime les pubs.",
+        "hi": "AppLock को छुपाएँ और विज्ञापन हटाएँ.",
+        "id": "Sembunyikan AppLock & hilangkan iklan.",
+        "ja": "AppLockを隠して広告を消せる。",
+        "ko": "AppLock을 숨기고 광고 제거.",
+          "pt": "Oculte o AppLock e remova anúncios.",
+        "vi": "Ẩn chính AppLock và bỏ quảng cáo.",
+        "zh": "隐藏 AppLock 本身并移除广告。"
+      }
+    },
+    {
+      "id": 8,
+      "image": null,
+      "button": {
+        "text": {
+          "en": "See",
+          "ar": "مشاهدة",
+          "de": "Sehen",
+          "es": "Ver",
+          "fr": "Voir",
+          "hi": "देखें",
+          "id": "Lihat",
+          "ja": "見る",
+          "ko": "보기",
+          "pt": "Ver",
+          "vi": "Xem",
+          "zh": "查看"
+        }
+      },
+      "title": {
+        "en": "Who touched your phone? 👀",
+        "ar": "من لمس هاتفك؟ 👀",
+        "de": "Wer hat dein Handy angefasst? 👀",
+        "es": "¿Quién tocó tu teléfono? 👀",
+        "fr": "Qui a touché ton téléphone ? 👀",
+        "hi": "आपके फोन को किसने छुआ? 👀",
+        "id": "Siapa yang menyentuh ponselmu? 👀",
+        "ja": "誰があなたの携帯を触った？ 👀",
+        "ko": "누가 당신의 폰을 만졌나요? 👀",
+        "pt": "Quem mexeu no seu celular? 👀",
+        "vi": "Ai đã chạm vào điện thoại của bạn? 👀",
+        "zh": "谁碰了你的手机？👀"
+      },
+      "titleSub": {
+        "en": "Check your intruder photos instantly!",
+        "ar": "اعرض صور المتطفلين فوراً!",
+        "de": "Sieh dir Eindringlingsfotos sofort an!",
+        "es": "¡Mira las fotos del intruso al instante!",
+        "fr": "Regarde les photos d'intrusion immédiatement !",
+        "hi": "अनधिकृत व्यक्ति की फ़ोटो तुरंत देखें!",
+        "id": "Lihat foto penyusup seketika!",
+        "ja": "侵入者の写真をすぐ確認！",
+        "ko": "침입자 사진을 바로 확인하세요!",
+        "pt": "Veja as fotos de intrusos na hora!",
+        "vi": "Xem ngay ảnh kẻ xâm nhập!",
+        "zh": "立即查看入侵者照片！"
+      }
+    }
+  ]
+}
